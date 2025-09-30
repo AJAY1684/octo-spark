@@ -1,2 +1,2 @@
-# gen-ai
+# Octo-Spark
 Applications of gen-ai
